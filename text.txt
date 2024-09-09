@@ -1,0 +1,1 @@
+postgresql://mypsql_pcq2_user:8TooXRswLSyr5rU0yYFr0YXpB9YPIUa7@dpg-crfehq3qf0us738jr5b0-a.singapore-postgres.render.com/mypsql_pcq2
